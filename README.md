@@ -6,7 +6,6 @@
 here you find all about me and my tech skills.
 
 _To the Moon... and also Mars?_
-
 ## Knowledges
 
 **Skilled in**
@@ -25,22 +24,22 @@ _To the Moon... and also Mars?_
 :eyes: Dart
 :eyes: Flutter
 
+
 **Some Databases worked**
-:heavy\*check_mark: Postgres
+:heavy_check_mark: Postgres
 :heavy_check_mark: MySQL(MariaDB)
 :heavy_check_mark: MongoDB
-**\*ORMs & Query Builders**\_
+_**ORMs & Query Builders**_
 Knex, Sequelize, Prisma, Mongoose
 
 > **Other Langs:** Java, PHP, Python, Ruby
 
 ## Description
-
 I'm a Backend developer with Node JS proficient, creating APIs Rest, following SOLID principles (in most cases). I can work in some Frontend task because I have React and Vue in my skills.
 
 Currently I have only been working on a personal project. I intend to seek new challenges after the end of 2021. At this time i'm improving in the experts club class, by Rocketseat.
 
-_Contact below ↓_
+ _Contact below ↓_
 [![LinkedIn Profile](https://img.shields.io/badge/-linkedin-0040FF?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rafascerqueira/) [![E-mail address](https://img.shields.io/badge/-Gmail-F2F2F2?style=for-the-badge&logo=gmail)](https://www.linkedin.com/in/rafascerqueira/)
 
 ---
@@ -48,5 +47,4 @@ _Contact below ↓_
 [![Rafael Cerqueira GitHub stats](https://github-readme-stats.vercel.app/api?username=rafascerqueira&show_icons=true&theme=gruvbox)](https://github.com/rafascerqueira?tab=repositories) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafascerqueira&layout=compact&theme=gruvbox)](https://github.com/rafascerqueira?tab=repositories)
 
 ---
-
 > :mortar_board: “A warrior does not give up what he loves, he finds the love in what he does”
