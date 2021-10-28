@@ -1,11 +1,11 @@
 # Rafael Cerqueira
 
-![Javascript](https://img.shields.io/badge/-Javascript-F2F2F2?style=for-the-badge&logo=javascript) ![Typescript](https://img.shields.io/badge/-TypeScript-F2F2F2?style=for-the-badge&logo=typescript) ![Node JS](https://img.shields.io/badge/-Node.js-F2F2F2?style=for-the-badge&logo=node.js)![React](https://img.shields.io/badge/-React-F2F2F2?style=for-the-badge&logo=react) ![Vue](https://img.shields.io/badge/-Vue-F2F2F2?style=for-the-badge&logo=vue.js) ![Elixir](https://img.shields.io/badge/-Elixir-F2F2F2?style=for-the-badge&logo=elixir&logoColor=660066)
+![Javascript](https://img.shields.io/badge/-Javascript-F2F2F2?style=for-the-badge&logo=javascript) ![Typescript](https://img.shields.io/badge/-TypeScript-F2F2F2?style=for-the-badge&logo=typescript) ![Node JS](https://img.shields.io/badge/-Node.js-F2F2F2?style=for-the-badge&logo=node.js) ![React](https://img.shields.io/badge/-React-F2F2F2?style=for-the-badge&logo=react) ![Vue](https://img.shields.io/badge/-Vue-F2F2F2?style=for-the-badge&logo=vue.js) ![Elixir](https://img.shields.io/badge/-Elixir-F2F2F2?style=for-the-badge&logo=elixir&logoColor=660066)
 
 **Welcome to my profile page.**
 here you find all about me and my tech skills.
 
-![Rocket launcher](https://c.tenor.com/lZE8tZGKLQ4AAAAi/saturn-v-space.gif =150x) _To the Moon... and also Mars?_
+_To the Moon... and also Mars?_
 
 ## Knowledges
 
@@ -26,10 +26,10 @@ here you find all about me and my tech skills.
 :eyes: Flutter
 
 **Some Databases worked**
-:heavy*check_mark: Postgres
+:heavy\*check_mark: Postgres
 :heavy_check_mark: MySQL(MariaDB)
 :heavy_check_mark: MongoDB
-***ORMs & Query Builders**\_
+**\*ORMs & Query Builders**\_
 Knex, Sequelize, Prisma, Mongoose
 
 > **Other Langs:** Java, PHP, Python, Ruby
