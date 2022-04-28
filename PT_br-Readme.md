@@ -42,11 +42,7 @@ _**ORMs & Query Builders**_
 
 Sou um desenvolvedor Backend com proficiência em Node JS, criando APIs Rest, seguindo princípios SOLID (na maioria dos casos). Posso trabalhar em algumas tarefas de Frontend porque tenho React e Vue em minhas habilidades.
 
-<<<<<<< HEAD
-Atualmente estou trabalhando apenas em um projeto pessoal. Pretendo buscar novos desafios ao longo de 2022. Nesse momento estou me aprimorando na turma do clube de especialistas, pela [Rocketseat.](https://www.rocketseat.com.br/expertsclub)
-=======
-Atualmente estou trabalhando apenas em um projeto pessoal. Pretendo buscar novos desafios a partir do final de 2021. Nesse momento estou me aprimorando na classe do Experts club, pela [Rocketseat.](https://www.rocketseat.com.br/expertsclub)
->>>>>>> 113912c
+Atualmente estou trabalhando apenas em um projeto pessoal. Pretendo buscar novos desafios ao longo de 2022. Nesse momento estou me aprimorando na classe do Experts club, pela [Rocketseat.](https://www.rocketseat.com.br/expertsclub)
 
 _Contato abaixo ↓_
 
