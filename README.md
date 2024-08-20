@@ -15,20 +15,20 @@ here you find all about me and my tech skills.
 
 - JavaScript
 - TypeScript
-- Node JS
-- React JS
+- React
+- Docker
 
 :hourglass: **Becoming skillful**
 
 - Elixir
-- Phoenix
+- Java
 - Vue
 
 :eyes: **Interest**
 
-- React Native
-- Dart
-- Flutter
+- C#
+- Go
+- Rust
 
 ℹ️ **Some Databases I worked with**
 
@@ -44,7 +44,8 @@ _**ORMs & Query Builders**_
 
 I'm a Backend developer with Node JS proficient, creating APIs Rest, following SOLID principles (in most cases). I can work in some Frontend task because I have React and Vue in my skills.
 
-Currently I have only been working on a personal project. I intend to seek new challenges throughout 2022. At this time i'm improving in the experts club class, by [Rocketseat.](https://www.rocketseat.com.br/expertsclub)
+Currently I have only been working on a personal project (will be released at the end of 2024) [Vendinhas](https://vendinhas.app/) . 
+I'm also part of the MG Cred IT team (financial enterprise office), a great partner of BMG and other payroll-deductible banks 
 
 _Contact below ↓_
 
